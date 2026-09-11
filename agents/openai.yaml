@@ -1,0 +1,8 @@
+interface:
+  display_name: "超高清分片生成"
+  short_description: "按自然语言目标独立生成并无损拼接超高清大图，输出可核验质量报告"
+  brand_color: "#B91C1C"
+  default_prompt: "Use $high-res-tile-generation to turn this image into a high-resolution tiled output with native-size checks and lossless direct stitching."
+
+policy:
+  allow_implicit_invocation: true
